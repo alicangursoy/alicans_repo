@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProductOrderCampaignMS/.vs/ProductOrderCampaignMS/v15
+/ProductOrderCampaignMS/packages
+/ProductOrderCampaignMS/ProductOrderCampaignMS/obj/Debug
+*.user
+/ProductOrderCampaignMS/ProductOrderCampaignMSTests/obj/Debug
